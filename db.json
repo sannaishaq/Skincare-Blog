@@ -1,0 +1,222 @@
+{
+  "skincare": [
+    {
+      "id": 1,
+      "name": "Moisturizer",
+      "image_URL": "https://i.pinimg.com/originals/88/33/99/8833996808afde90f1bdae4678b68480.png",
+      "description": "A nurturing yet fast-absorbing daily moisturizer with a peptide duo that helps support natural collagen and hydrate skin.",
+      "review": "super moisturizing, great for dry skin!",
+      "skinType": "Dry",
+      "link": "https://www.sephora.com/product/the-inkey-list-peptide-moisturizer-P455369?skuId=2335610&icid2=skugrid:p455369:product"
+    },
+    {
+      "id": 2,
+      "name": "Hyaluronic Acid",
+      "image_URL": "https://static.wixstatic.com/media/6bab5f_35abf656afe24d759948c1344b4f567f~mv2.png/v1/fill/w_1080,h_1440,al_c/6bab5f_35abf656afe24d759948c1344b4f567f~mv2.png",
+      "description": "An ultimate hydrating must-have with two percent hyaluronic acid to hydrate the skin, leaving it smoother and plumper.",
+      "review": "helps keep my skin looking plump and fresh throughout the day",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.ulta.com/p/revitalift-derm-intensives-hyaluronic-acid-face-serum-pimprod2001763"
+    },
+    {
+      "id": 3,
+      "name": "Sun screen",
+      "image_URL": "https://static.birchbox.com/shop/media/catalog/product/cache/1/small_image/460x521/85e4522595efc69f496374d01ef2bf13/s/u/supergoop_unseen_sunscreen_spf40_repack_pd_1500x1700.png",
+      "description": "A totally invisible, weightless, scentless, and makeup-gripping daily primer with SPF 40.",
+      "review": "A must have!! No white casting or residue left on the face!! Love it!",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/supergoop-unseen-sunscreen-spf-40-P454380?skuId=2315935&icid2=skugrid:p454380:product"
+    },
+    {
+      "id": 4,
+      "name": "Retinol",
+      "image_URL": "https://static.birchbox.com/shop/media/catalog/product/cache/1/small_image/460x521/85e4522595efc69f496374d01ef2bf13/s/u/sunday_riley_luna-sleeping-oil_35ml_pd_1500x1700.png",
+      "description": "A gentle oil perfect for new and experienced retinol users that is balanced with blue tansy to improve the look of wrinkles, surface redness, and pores.",
+      "review": "Impressed at how such a small amout can go a long way! I've had the same bottle for almost 2 years!",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/luna-sleeping-night-oil-P393718?skuId=1681881"
+    },
+    {
+      "id": 5,
+      "name": "Face Mask",
+      "image_URL": "https://static.birchbox.com/shop/media/catalog/product/cache/1/small_image/460x521/85e4522595efc69f496374d01ef2bf13/u/_/u_awards-season_winners_sand-_-sky_porefining-pink-clay-mask_p_p_1500x1700.png",
+      "description": "A clay mask that visibly minimizes pores and blackheads instantly, leaving skin refined and smooth.",
+      "review": "Extremely clarifying. My pores have neved looked this good!",
+      "skinType": "Combination and Oily",
+      "link": "https://www.amazon.com/Sand-Sky-Australian-Porefining-Facial/dp/B076Z6PVVQ/ref=sr_1_5?crid=1S2EVP9Y4UPY2&keywords=pink+clay+mask&qid=1648738876&sprefix=pink+clay+mask%2Caps%2C663&sr=8-5"
+    },
+    {
+      "id": 6,
+      "name": "Rosehip Oil",
+      "image_URL": "https://cdn.shopify.com/s/files/1/0428/8498/9091/products/TheINKEYListRosehipOIl_1600x.jpg?v=1637576045",
+      "description": "A 100 percent cold pressed, natural facial oil with antioxidant properties to target dry skin and improve the appearance of skin tone and texture.",
+      "review": "Super nourishing! Amazing night time oil. I wake up with radient skin daily!",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/rosehip-oil-P443834?skuId=2211589&keyword=The%20INKEY%20List%20-%20Rosehip%20Nourishing%20Night%20Oil"
+    },
+    {
+      "id": 7,
+      "name": "Sleeping Lip Mask",
+      "image_URL": "https://cdn.shopify.com/s/files/1/2691/4054/products/Lip_Sleeping_Mask_Berry.png?v=1531903442",
+      "description": "A leave-on lip mask that delivers intense moisture and antioxidants while you sleep with its Moisture Wrap™ technology and Berry Mix Complex™ formula.",
+      "review": "An absolute must have!",
+      "skinType": "Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/lip-sleeping-mask-P420652?skuId=1966258&icid2=products%20grid:p420652:product"
+    },
+    {
+      "id": 8,
+      "name": "Eye Cream",
+      "image_URL": "https://m.media-amazon.com/images/I/61rYa359FoL._SL1500_.jpg",
+      "description": "A brightening, vitamin C-rich eye crème that targets signs of aging, reducing the look of dark circles while improving concealer application and wear—inspired by makeup artist secret, banana powder.",
+      "review": "Obesssed over how bright my undereyes have been since I started using this product",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/banana-bright-eye-creme-P426339?skuId=2018984&icid2=skugrid:p426339:product"
+    },
+    {
+      "id": 9,
+      "name": "Vitamin-C",
+      "image_URL": "http://cdn.shopify.com/s/files/1/0428/8498/9091/products/INKEY_15percentVitaminCandEGF_1000x1000_0006cff3-63e2-4dd7-b94a-5a12e7fa59f3_1200x1200.png?v=1633450750",
+      "description": "A vitamin C-rich serum that targets signs of aging",
+      "review": "Love how brightening this is!",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/the-inkey-list-15-vitamin-c-egf-brightening-serum-P455368?skuId=2335594&icid2=skugrid:p455368:product"
+    },
+    {
+      "id": 10,
+      "name": "Gua Shua Shaping Tool",
+      "image_URL": "https://fashionista.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTU3MDgzMDI0NzA4NjA5MjM2/fashionista-gua-sha-lai.png",
+      "description": "A traditional Chinese healing method in which a trained professional uses a smooth-edged tool to stroke your skin while they press on it. ",
+      "review": "Best face shaper ever! Love how slim this makes my face",
+      "skinType": "All Skin Types",
+      "link": "https://www.amazon.com/DEAYOKA-Rose-Quartz-Guasha-Tool/dp/B081XYKFGP/ref=sr_1_7?keywords=gua+sha&qid=1648738909&sprefix=gua+%2Caps%2C317&sr=8-7"
+    },
+    {
+      "id": 11,
+      "name": "Under Eye Mask",
+      "image_URL": "https://www.pricerunner.com/product/1200x630/3002410892/Wander-Beauty-Baggage-Claim-Gold-Eye-Mask-6-pack.jpg",
+      "description": "Eye mask that hydrates and plumps skin by providing essential nutrients to the under eye",
+      "review": "Love how brught this makes my undereyes!",
+      "skinType": "All Skin Types",
+      "link": "https://www.sephora.com/product/baggage-claim-gold-eye-masks-P428668?skuId=2049625&icid2=skugrid:p428668:product"
+    },
+    {
+      "id": 12,
+      "name": "Liquid Exfolient",
+      "image_URL": "https://n.nordstrommedia.com/id/sr3/cb9a92a2-8b12-40f8-88df-fb6c05e21736.jpeg?w=780&h=838",
+      "description": "BHA liquid exfolient that cleans pores",
+      "review": "I cannot believe how smooth my skin feels",
+      "skinType": "Combination and Oily Skin",
+      "link": "https://www.sephora.com/search?keyword=Paula%27s%20Choice%20-%20Skin%20Perfecting%202%25%20BHA%20Liquid%20Exfoliant"
+    },
+    {
+      "id": 13,
+      "name": "Ice Roller",
+      "image_URL": "https://www.refinery29.com/images/10277140.png",
+      "description": "Skin de-puffer",
+      "review": "My skin has never felt so fresh and firm!",
+      "skinType": "All Skin Types",
+      "link": "https://www.amazon.com/ESARORA-Roller-Puffiness-Migraine-Products/dp/B01E8IZ4ZA/ref=sr_1_1_sspa?keywords=ice+roller&qid=1648738932&sprefix=ice+roller%2Caps%2C180&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTFJMNFlUNkc0QkNDJmVuY3J5cHRlZElkPUEwNjYyODc1MTNQOVhOOVBVSFRJNSZlbmNyeXB0ZWRBZElkPUEwMTAyOTY4MldTMEVTWjFDVkVVMiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+    },
+    {
+      "id": 14,
+      "name": "Face Exfoliating Pads",
+      "image_URL": "https://cdn.shopify.com/s/files/1/1324/9403/products/026f012d5aae86aede5b4a829f6edcb8_800x.png?v=1637292761",
+      "description": "Skin exfoliator",
+      "review": "Such an amazing product! Love how smooth my skin feels",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.amazon.com/Neogen-Bio-Peel-Gauze-Peeling-Lemon/dp/B019RULW50/ref=sr_1_3_sspa?keywords=neogen+exfoliating+pad&qid=1648739256&sprefix=neogen+%2Caps%2C136&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTjBLVUFZWEFMNjMxJmVuY3J5cHRlZElkPUEwNTY2OTgyMjA5VkxLMkRFSjlNRSZlbmNyeXB0ZWRBZElkPUEwMzU1Mzc2MllUU0lNRVVFMFpXSiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+    },
+    {
+      "id": 15,
+      "name": "Pore Cleanser",
+      "image_URL": "https://cdn.shopify.com/s/files/1/0428/8498/9091/products/INKEY_SALICYLICACIDCLEANSER_1000x1000_4ebc9807-19e7-4e7e-b8c0-6c4ee7cbcd13_grande.png?v=1620305553",
+      "description": "A lightly-foaming cleanser that removes makeup and dirt, helping to reduce blackheads, acne, and blemishes while unclogging pores.",
+      "review": "Cleaned my pores almost overnight",
+      "skinType": "Normal, Combination, and Oily",
+      "link": "https://www.sephora.com/product/salicylic-acid-cleanser-P443833?skuId=2211605&keyword=The%20INKEY%20List%20-%20Salicylic%20Acid%20Acne%20%20%20Pore%20Cleanser"
+    },
+    {
+      "id": 16,
+      "name": "Oat Cleansing Balm",
+      "image_URL": "http://cdn.shopify.com/s/files/1/0428/8498/9091/products/INKEY_OatCleansingBalm_1000x1000_69cfb1c4-023d-419c-aaef-e345de6e5104_1200x1200.png?v=1633451501",
+      "description": "A luxurious cleansing balm that gently dissolves makeup and excess oil without stripping sensitive, irritated skin of the moisture it needs.",
+      "review": "Perfect makeup remover and skin cleanser",
+      "skinType": "Normal",
+      "link": "https://www.sephora.com/product/the-inkey-list-oat-cleansing-balm-P455364?skuId=2335636&icid2=skugrid:p455364:product"
+    }
+  ],
+  "cart": [
+    {
+      "id": 10,
+      "name": "Gua Shua Shaping Tool",
+      "image_URL": "https://fashionista.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTU3MDgzMDI0NzA4NjA5MjM2/fashionista-gua-sha-lai.png",
+      "description": "A traditional Chinese healing method in which a trained professional uses a smooth-edged tool to stroke your skin while they press on it. ",
+      "review": "Best face shaper ever! Love how slim this makes my face",
+      "skinType": "All Skin Types",
+      "link": "https://www.amazon.com/DEAYOKA-Rose-Quartz-Guasha-Tool/dp/B081XYKFGP/ref=sr_1_7?keywords=gua+sha&qid=1648738909&sprefix=gua+%2Caps%2C317&sr=8-7"
+    },
+    {
+      "id": 2,
+      "name": "Hyaluronic Acid",
+      "image_URL": "https://static.wixstatic.com/media/6bab5f_35abf656afe24d759948c1344b4f567f~mv2.png/v1/fill/w_1080,h_1440,al_c/6bab5f_35abf656afe24d759948c1344b4f567f~mv2.png",
+      "description": "An ultimate hydrating must-have with two percent hyaluronic acid to hydrate the skin, leaving it smoother and plumper.",
+      "review": "helps keep my skin looking plump and fresh throughout the day",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.ulta.com/p/revitalift-derm-intensives-hyaluronic-acid-face-serum-pimprod2001763"
+    },
+    {
+      "id": 3,
+      "name": "Sun screen",
+      "image_URL": "https://static.birchbox.com/shop/media/catalog/product/cache/1/small_image/460x521/85e4522595efc69f496374d01ef2bf13/s/u/supergoop_unseen_sunscreen_spf40_repack_pd_1500x1700.png",
+      "description": "A totally invisible, weightless, scentless, and makeup-gripping daily primer with SPF 40.",
+      "review": "A must have!! No white casting or residue left on the face!! Love it!",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/supergoop-unseen-sunscreen-spf-40-P454380?skuId=2315935&icid2=skugrid:p454380:product"
+    },
+    {
+      "id": 4,
+      "name": "Retinol",
+      "image_URL": "https://static.birchbox.com/shop/media/catalog/product/cache/1/small_image/460x521/85e4522595efc69f496374d01ef2bf13/s/u/sunday_riley_luna-sleeping-oil_35ml_pd_1500x1700.png",
+      "description": "A gentle oil perfect for new and experienced retinol users that is balanced with blue tansy to improve the look of wrinkles, surface redness, and pores.",
+      "review": "Impressed at how such a small amout can go a long way! I've had the same bottle for almost 2 years!",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/luna-sleeping-night-oil-P393718?skuId=1681881"
+    },
+    {
+      "id": 1,
+      "name": "Moisturizer",
+      "image_URL": "https://i.pinimg.com/originals/88/33/99/8833996808afde90f1bdae4678b68480.png",
+      "description": "A nurturing yet fast-absorbing daily moisturizer with a peptide duo that helps support natural collagen and hydrate skin.",
+      "review": "super moisturizing, great for dry skin!",
+      "skinType": "Dry",
+      "link": "https://www.sephora.com/product/paula-s-choice-skin-perfecting-2-bha-liquid-exfoliant-P469502?skuId=2421360&icid2=skugrid:p469502:product"
+    },
+    {
+      "id": 7,
+      "name": "Sleeping Lip Mask",
+      "image_URL": "https://cdn.shopify.com/s/files/1/2691/4054/products/Lip_Sleeping_Mask_Berry.png?v=1531903442",
+      "description": "A leave-on lip mask that delivers intense moisture and antioxidants while you sleep with its Moisture Wrap™ technology and Berry Mix Complex™ formula.",
+      "review": "An absolute must have!",
+      "skinType": "Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/lip-sleeping-mask-P420652?skuId=1966258&icid2=products%20grid:p420652:product"
+    },
+    {
+      "id": 9,
+      "name": "Vitamin-C",
+      "image_URL": "http://cdn.shopify.com/s/files/1/0428/8498/9091/products/INKEY_15percentVitaminCandEGF_1000x1000_0006cff3-63e2-4dd7-b94a-5a12e7fa59f3_1200x1200.png?v=1633450750",
+      "description": "A vitamin C-rich serum that targets signs of aging",
+      "review": "Love how brightening this is!",
+      "skinType": "Normal, Dry, Combination, and Oily",
+      "link": "https://www.sephora.com/product/the-inkey-list-15-vitamin-c-egf-brightening-serum-P455368?skuId=2335594&icid2=skugrid:p455368:product"
+    },
+    {
+      "id": 11,
+      "name": "Under Eye Mask",
+      "image_URL": "https://www.pricerunner.com/product/1200x630/3002410892/Wander-Beauty-Baggage-Claim-Gold-Eye-Mask-6-pack.jpg",
+      "description": "Eye mask that hydrates and plumps skin by providing essential nutrients to the under eye",
+      "review": "Love how brught this makes my undereyes!",
+      "skinType": "All Skin Types",
+      "link": "https://www.sephora.com/product/baggage-claim-gold-eye-masks-P428668?skuId=2049625&icid2=skugrid:p428668:product"
+    }
+  ]
+}
